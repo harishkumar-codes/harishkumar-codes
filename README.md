@@ -2,9 +2,9 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on ZOHO
-- 📫 How to reach me instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 📫 reach me instagram : _mr_smiley_007
+- 😄 Pronouns: break the darks with bright of skills
+- ⚡ Fun fact: degree does't provide you a job
 
 <!---
 harishkumar-codes/harishkumar-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
